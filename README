@@ -1,0 +1,9 @@
+This is a command line tool for managing Gnome keyring for Gnome Desktop.
+Originally developed and provided as part of CollabNet Subversion command line
+client binaries for Linux and Solaris. This is useful when you need to use
+the keyring in an environment without a GUI such as an SSH terminal session
+into a remote server.
+
+You can follow the development and history of this tool on:
+  https://ctf.open.collab.net/sf/projects/keyring
+

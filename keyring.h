@@ -16,7 +16,7 @@
    You should have received a copy of the GNU General Public License
    along with this tool.  If not, see <http://www.gnu.org/licenses/>.
 
-   Author: ALexander Thomas <alexander@collab.net>
+   Author: Alexander Thomas <alexander@collab.net>
 */
 #ifndef __KEYRING_H__
 #define __KEYRING_H__

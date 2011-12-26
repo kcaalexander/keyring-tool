@@ -26,7 +26,7 @@
 extern char *error_msg[];
 
 const char *usage_str = "\n"
-"Keyring tools is application that lets you manage keyrings.\n\n"
+"Keyring tools is application that lets you manage GNOME keyring.\n\n"
 "Usage:\n"
 "  %s {--list | -t}\n"
 "     List all the existing keyring names.\n\n"
